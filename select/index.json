@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "アジアの純真",
+  "base_artist": "PUFFY",
+  "createdAt": "2025-12-14T06:17:21.153618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アジアの純真",
+      "artist": "Puffy AmiYumi",
+      "has_synced": true,
+      "path": "select/01_アジアの純真_Puffy_AmiYumi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アジアの純真",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/02_アジアの純真_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アジアの純真",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/03_アジアの純真_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アジアの純真 - ASIA NO JUNSHIN",
+      "artist": "CHARAN-PO-RANTAN",
+      "has_synced": false,
+      "path": "select/04_アジアの純真_-_ASIA_NO_JUNSHIN_CHARAN-PO-RANTAN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アジアの純真",
+      "artist": "Puffy",
+      "has_synced": true,
+      "path": "select/05_アジアの純真_Puffy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アジアの純真 (Sgt. Tosh Mix)",
+      "artist": "Puffy",
+      "has_synced": false,
+      "path": "select/06_アジアの純真_(Sgt._Tosh_Mix)_Puffy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アジアの純真",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/07_アジアの純真_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アジアの純真",
+      "artist": "Ohashi, Junko",
+      "has_synced": true,
+      "path": "select/08_アジアの純真_Ohashi,_Junko.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アジアの純真",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/09_アジアの純真_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アジアの純真",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/10_アジアの純真_PUFFY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アジアの純真",
+      "artist": "大橋純子",
+      "has_synced": true,
+      "path": "select/11_アジアの純真_大橋純子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アジアの純真",
+      "artist": "PUFFY",
+      "has_synced": false,
+      "path": "select/pl_01_アジアの純真_PUFFY.txt"
+    }
+  ]
+}
